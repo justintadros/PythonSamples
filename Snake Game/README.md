@@ -1,2 +1,2 @@
 # Snake Game
-Example of how to use OOP and use separate classes and files to make your project easier to read and more efficient.
+Example of how to use an OOP to create a game and use a file to keep hold of a highscore.
